@@ -1,7 +1,7 @@
 Projeto CRUD baseado no sistema da Netflix referente a disciplina de "TECNOLOGIAS PARA BACK-END I" (P3)
 
 
-# GRUPO: #
+GRUPO:
 - Gabriel de Lima Arruda 
 - Vinicius Nascimento Cruz
 - Iremar Flor de Souza Filho
