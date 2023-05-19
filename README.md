@@ -1,5 +1,5 @@
 # netflix-crud
-Projeto CRUD baseado no sistema da Netflix referente a disciplina de "TECNOLOGIAS PARA BACK-END I" (P3)
+Projeto CRUD utilizando "Spring Framework" baseado no sistema da Netflix referente a disciplina de "TECNOLOGIAS PARA BACK-END I" (P3).
 
 
 GRUPO:
